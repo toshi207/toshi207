@@ -5,4 +5,4 @@
 
 ## 🎓 Сертификаты
 
-- [Machine Learning — Stanford / Coursera]([https://www.coursera.org/account/accomplishments/verify/XXXXXXXX](https://coursera.org/share/cd223f55a2cf5fec06c5635904517cf2))
+- [Java script security]([https://www.coursera.org/account/accomplishments/verify/XXXXXXXX](https://coursera.org/share/cd223f55a2cf5fec06c5635904517cf2))
